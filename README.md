@@ -2,10 +2,10 @@
 ___by Kisilenko Anastasia___
 
 ## О себе:
-Minecraft Bedrock разработчик, владею сервером 4PDA Network.
-<https://4pdanetwork.ru/>
-Java - основной стек.
-Работала ранее в DNS, теперь в Farpost.
+Minecraft Bedrock разработчик, владею сервером 4PDA Network.  
+<https://4pdanetwork.ru/>  
+Java - основной стек.  
+Работала ранее в DNS, теперь в Farpost.  
 
 ## Мои репозитории:
 <https://github.com/Iktaniyalol?tab=repositories>
